@@ -1,2 +1,4 @@
-idea/*
-test_scripy/*
+.idea/*
+spider_template/__pycache__/
+spider_template/utils/etl/__pycache__/
+spider_template/utils/__pycache__/
